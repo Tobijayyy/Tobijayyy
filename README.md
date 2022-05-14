@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Tobijayyy
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning html, CSS and JavaScript
-- 💞️ I’m looking to collaborate on web development projects
+- 👀 I’m interested in product design
+- 💞️ I’m looking to collaborate on UI and UX design projects
 - 📫 How to reach me: tobijohnson01@gmail.com
 
 <!---
