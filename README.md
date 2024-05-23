@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tobijayyy
-- 👀 I’m interested in product design
-- 💞️ I’m looking to collaborate on UI and UX design projects
+- 👀 I’m interested in Data Science, Analytics and Bioinformatics
+- 💞️ I’m looking to intern as a data scientist, analyst or a bioinformatician
 - 📫 How to reach me: tobijohnson01@gmail.com
 
 <!---
